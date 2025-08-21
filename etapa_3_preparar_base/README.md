@@ -22,7 +22,7 @@ python3 preprocess_and_split_space.py AQUI_o_ARQUIVO.csv
 
 -------------------------------------------------------------------
 
-converter para rodar o smv
+converter para rodar o SVM
 
 execulte o comando ( o CSV na mesma pasta do script)
 
